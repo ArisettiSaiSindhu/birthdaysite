@@ -180,7 +180,7 @@ This project was created as a personal gift to celebrate my sister's birthday an
 AI & Machine Learning Undergraduate
 
 - GitHub: https://github.com/ArisettiSaiSindhu
-- LinkedIn: *Add your LinkedIn profile*
+- LinkedIn: https://www.linkedin.com/in/sai-sindhu-arisetti/
 
 ---
 
